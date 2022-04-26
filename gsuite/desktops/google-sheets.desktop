@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=Internet;Office;
-Comment=Standalone silo apps for the Google office suite (Drive, Documents and Sheets)
+Comment=Standalone silo apps for the Google office suite (Drive, Documents, Sheets, and Slides)
 Exec=silo -a google-sheets
 GenericName=Google Sheets
 Icon=silo-google-sheets

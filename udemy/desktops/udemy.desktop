@@ -1,0 +1,13 @@
+[Desktop Entry]
+Categories=Internet;Office;
+Comment=Standalone silo app for Udemy
+Exec=silo -a udemy
+GenericName=Udemy
+Icon=silo-udemy
+MimeType=
+Name=Udemy
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application
+StartupWMClass=silos-udemy
