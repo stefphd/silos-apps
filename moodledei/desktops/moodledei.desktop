@@ -1,7 +1,7 @@
 [Desktop Entry]
 Categories=Internet;Office;
 Comment=Standalone silo app for Moodle DEI
-Exec=silo -a moodledii
+Exec=silo -a moodledei
 GenericName=Moodle DEI
 Icon=silo-moodledei
 MimeType=
@@ -10,4 +10,4 @@ Path=
 StartupNotify=true
 Terminal=false
 Type=Application
-StartupWMClass=silos-moodledii
+StartupWMClass=silos-moodledei
