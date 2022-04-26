@@ -1,0 +1,13 @@
+[Desktop Entry]
+Categories=Internet;Office;
+Comment=Standalone silo app for Moodle DII
+Exec=silo -a moodledii
+GenericName=Moodle DII
+Icon=silo-moodledii
+MimeType=
+Name=Moodle DII
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application
+StartupWMClass=silos-moodledii

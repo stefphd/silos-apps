@@ -1,0 +1,9 @@
+{
+        "name": "Moodle DII",
+        "scope": ["https:\\/\\/elearning.unipd.it\\/dii\\/.*"],
+        "plugins": [],
+        "home": "https://elearning.unipd.it/dii/",
+        "icon": "icons/moodledii.svg",
+        "saveSession": false,
+        "menuDisabled": false
+}
