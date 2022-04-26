@@ -2,7 +2,7 @@
         "name": "Udemy",
         "scope": ["https:\\/\\/www.udemy.com\\/.*"],
         "plugins": [],
-        "home": "www.udemy.com",
+        "home": "https://www.udemy.com/",
         "icon": "icons/udemy.svg",
         "saveSession": false,
         "menuDisabled": false
